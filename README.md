@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![LaTeX](https://img.shields.io/badge/Report-LaTeX-47A141?logo=latex&logoColor=white)]()
+[![LaTeX](https://img.shields.io/badge/Report-LaTeX-47A141?logo=latex&logoColor=white)](https://github.com/ToanKhanh137/KTTT-Group33/blob/main/B%C3%A1o%20c%C3%A1o%20b%C3%A0i%20t%E1%BA%ADp%20l%E1%BB%9Bn%20NMKTTT%20-%20Nh%C3%B3m%2033.pdf)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 <div align="center">
